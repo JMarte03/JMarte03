@@ -25,7 +25,7 @@
 
 # 📊 Github Stats
 
-![JMarte03's Stats](https://github-readme-stats.vercel.app/api?username=JMarte03&theme=calm&show_icons=true&hide_border=true&count_private=false)
+![JMarte03's Stats](https://github-readme-stats.vercel.app/api?username=JMarte03&theme=calm&show_icons=true&hide_border=true&count_private=false)  ![JMarte03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JMarte03&theme=calm&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
