@@ -11,6 +11,7 @@
   - 🧠  I'm currently expanding my knowledge on React, Node.js, Web Accesibility and SEO (Search Engine Optimization).
 
   - 🎯  I'm looking forward to collaborate on open source and freelancing projects.
+    
 
 <img width="1059" alt="Screenshot 2024-08-20 at 3 28 32 PM" src="https://github.com/user-attachments/assets/b50a18fe-5e01-47e0-8e15-cd7b3a5638d2">
 
