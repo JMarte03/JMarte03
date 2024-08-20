@@ -23,6 +23,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jesimiel-marte-frías-55660a192) 
 
 
+# 📊 Github Stats
+
+<p>&nbsp;<img align="lfet" src="https://github-readme-stats.vercel.app/api?username=jmarte03&show_icons=true&locale=en" alt="jmarte03" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmarte03&" alt="jmarte03" /></p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
