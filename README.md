@@ -4,13 +4,13 @@
 
 # 👋 Hi there! I'm Jesimiel Marte 
 
-👩🏻‍💻 I'm a Full-stack software developer, and I enjoy building functional and good looking websites.
+  - 👩🏻‍💻  I'm a Full-stack software developer, and I enjoy building functional and good looking websites.
 
-🏫 I'm a proud student from Las Américas Institute of Technology, here in Dominican Republic.
+  - 🏫  I'm a proud student from Las Américas Institute of Technology, here in Dominican Republic.
 
-🧠 I'm currently expanding my knowledge on React, Node.js, Web Accesibility and SEO (Search Engine Optimization).
+  - 🧠  I'm currently expanding my knowledge on React, Node.js, Web Accesibility and SEO (Search Engine Optimization).
 
-🎯 I'm looking forward to collaborate on open source and freelancing projects.
+  - 🎯  I'm looking forward to collaborate on open source and freelancing projects.
 
 <img width="1059" alt="Screenshot 2024-08-20 at 3 28 32 PM" src="https://github.com/user-attachments/assets/b50a18fe-5e01-47e0-8e15-cd7b3a5638d2">
 
