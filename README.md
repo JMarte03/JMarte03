@@ -25,9 +25,9 @@
 
 # 📊 Github Stats
 
-<p>&nbsp;<img align="lfet" src="https://github-readme-stats.vercel.app/api?username=jmarte03&show_icons=true&locale=en" alt="jmarte03" /></p>
+<p>&nbsp;<img align="lfet" src="https://github-readme-stats.vercel.app/api?username=jmarte03&show_icons=true&locale=en" alt="jmarte03" display="inline" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmarte03&" alt="jmarte03" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmarte03&" alt="jmarte03" display="inline"/></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
