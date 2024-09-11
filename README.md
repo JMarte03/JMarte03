@@ -1,6 +1,5 @@
 
-
-![Hi there, Welcome to Mars-min](https://github.com/user-attachments/assets/c7db1e30-ee7a-4715-a73f-8387800f2361)
+![github-header-image](https://github.com/user-attachments/assets/ccf07ccc-657c-40c8-b1c6-6faa67a8a397)
 
 # 👋 Hi there! I'm Jesimiel Marte 
 
