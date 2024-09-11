@@ -1,5 +1,4 @@
-
-![github-header-image](https://github.com/user-attachments/assets/ccf07ccc-657c-40c8-b1c6-6faa67a8a397)
+![github-header-image (6)](https://github.com/user-attachments/assets/36ab1f16-7308-4c91-bc5a-434d98f9ac81)
 
 # 👋 Hi there! I'm Jesimiel Marte 
 
