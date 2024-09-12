@@ -1,15 +1,15 @@
-![Uploading Blue And Green Professional Technology LinkedIn Banner.png…]()
 
+![Blue And Green Professional Technology LinkedIn Banner](https://github.com/user-attachments/assets/dfc9421d-b061-460b-a978-cb5aca82621e)
 
 # 👋 Hi there! I'm Jesimiel Marte 
 
-- 👩🏻‍💻  I'm a Full-stack software developer, and I enjoy building functional and good looking websites.
+- 👩🏻‍💻  I am a full-stack software developer who enjoys creating functional and visually appealing websites.
 
-- 🏫  I'm a proud student from Las Américas Institute of Technology, here in Dominican Republic.
+- 🏫  I am a proud student from Las Américas Institute of Technology in the Dominican Republic.
 
-- 🧠  I'm currently expanding my knowledge on React, Node.js, Web Accesibility and SEO (Search Engine Optimization).
+- 🧠  Currently expanding my knowledge in React, Node.js, Web Accessibility, and SEO (Search Engine Optimization).
 
-- 🎯  I'm looking forward to collaborate on open source and freelancing projects.
+- 🎯  I'm looking forward to collaborating on open source and freelancing projects.
     
 
 <img width="1059" alt="Screenshot 2024-08-20 at 3 28 32 PM" src="https://github.com/user-attachments/assets/b50a18fe-5e01-47e0-8e15-cd7b3a5638d2">
