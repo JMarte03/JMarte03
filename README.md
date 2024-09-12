@@ -1,4 +1,5 @@
-![github-header-image (6)](https://github.com/user-attachments/assets/36ab1f16-7308-4c91-bc5a-434d98f9ac81)
+![Uploading Blue And Green Professional Technology LinkedIn Banner.png…]()
+
 
 # 👋 Hi there! I'm Jesimiel Marte 
 
