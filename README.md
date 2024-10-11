@@ -7,7 +7,7 @@
 
 - 🏫  I am a proud student from Las Américas Institute of Technology in the Dominican Republic.
 
-- 🧠  Currently learning React, Node.js, Web Accessibility, and SEO (Search Engine Optimization).
+- 🧠  Currently learning React, Node.js, Web Accessibility, SEO (Search Engine Optimization) and React Native.
 
 - 🎯  I'm looking forward to collaborating on open source and freelancing projects.
     
