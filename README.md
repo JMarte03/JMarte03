@@ -23,9 +23,6 @@
 <a href="https://x.com/JMars_2003"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://dev.to/jmars_2003"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 
-# 📊 Github Stats
-
-![JMarte03's Stats](https://github-readme-stats.vercel.app/api?username=JMarte03&theme=material-palenight&show_icons=true&hide_border=true&count_private=true) ![JMarte03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JMarte03&theme=material-palenight&hide_border=true)<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
