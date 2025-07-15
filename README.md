@@ -14,7 +14,7 @@
 
 <img width="1059" alt="Screenshot 2024-08-20 at 3 28 32 PM" src="https://github.com/user-attachments/assets/b50a18fe-5e01-47e0-8e15-cd7b3a5638d2">
 
-# 💻 Tech Stack
+# 💻 Tech Stack & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vite,vscode)](https://skillicons.dev)
 
