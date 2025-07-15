@@ -3,11 +3,11 @@
 
 # Hi there! I'm Jesimiel
 
-- 👩🏻‍💻  I am a full-stack software developer who enjoys creating functional and visually appealing websites. I primarily work with the MERN stack.
+- I am a full-stack software developer who enjoys creating functional and visually appealing websites. I primarily work with the MERN stack.
 
-- 🏫  I am a proud graduate from Las Américas Institute of Technology (Dominican Republic).
+- I am a proud graduate from Las Américas Institute of Technology (Dominican Republic).
 
-- 🎯  I'm looking forward to collaborating on open source and freelancing projects.
+- I'm looking forward to collaborating on open source and freelancing projects.
 
 ## 💻 Tech Stack & Tools
 
