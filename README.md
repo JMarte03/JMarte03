@@ -3,11 +3,9 @@
 
 # 👋 Hi there! I'm Jesimiel Marte 
 
-- 👩🏻‍💻  I am a full-stack software developer who enjoys creating functional and visually appealing websites.
+- 👩🏻‍💻  I am a full-stack software developer who enjoys creating functional and visually appealing websites. I primarily work with the MERN stack.
 
-- 🏫  I am a proud student from Las Américas Institute of Technology in the Dominican Republic.
-
-- 🧠  Currently learning React, Node.js, Web Accessibility, SEO (Search Engine Optimization) and React Native.
+- 🏫  I am a proud graduate from Las Américas Institute of Technology in the Dominican Republic.
 
 - 🎯  I'm looking forward to collaborating on open source and freelancing projects.
     
