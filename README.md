@@ -1,7 +1,7 @@
 
 ![Blue And Green Professional Technology LinkedIn Banner](https://github.com/user-attachments/assets/dfc9421d-b061-460b-a978-cb5aca82621e)
 
-# 👋 Hi there! I'm Jesimiel Marte 
+# Hi there! I'm Jesimiel
 
 - 👩🏻‍💻  I am a full-stack software developer who enjoys creating functional and visually appealing websites. I primarily work with the MERN stack.
 
